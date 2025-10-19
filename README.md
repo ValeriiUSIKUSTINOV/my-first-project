@@ -1,8 +1,8 @@
 # my-first-project
 
-This is my first project!
-
 This is my first project in 2025 year!
+
+Additional information for my learning!
 
 # 📌 Модуль 1: Основи HTML
 
